@@ -1,0 +1,10 @@
+C:\Users\ANDREITA\source\repos\TrabjoEntregar\bin\Debug\TrabjoEntregar.exe.config
+C:\Users\ANDREITA\source\repos\TrabjoEntregar\bin\Debug\TrabjoEntregar.exe
+C:\Users\ANDREITA\source\repos\TrabjoEntregar\bin\Debug\TrabjoEntregar.pdb
+C:\Users\ANDREITA\source\repos\TrabjoEntregar\obj\Debug\TrabjoEntregar.csprojAssemblyReference.cache
+C:\Users\ANDREITA\source\repos\TrabjoEntregar\obj\Debug\TrabjoEntregar.Form1.resources
+C:\Users\ANDREITA\source\repos\TrabjoEntregar\obj\Debug\TrabjoEntregar.Properties.Resources.resources
+C:\Users\ANDREITA\source\repos\TrabjoEntregar\obj\Debug\TrabjoEntregar.csproj.GenerateResource.cache
+C:\Users\ANDREITA\source\repos\TrabjoEntregar\obj\Debug\TrabjoEntregar.csproj.CoreCompileInputs.cache
+C:\Users\ANDREITA\source\repos\TrabjoEntregar\obj\Debug\TrabjoEntregar.exe
+C:\Users\ANDREITA\source\repos\TrabjoEntregar\obj\Debug\TrabjoEntregar.pdb
